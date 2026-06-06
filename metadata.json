@@ -1,0 +1,6 @@
+{
+  "name": "AI Senior Code Critic",
+  "description": "A professional-grade code review companion that analyzes source code, highlights bugs and security issues, and provides interactive side-by-side diff refactoring with real AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
